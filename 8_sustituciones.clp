@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 23/05/19
 (defrule inicial
 	=>
 	(assert (palabra B C D)))

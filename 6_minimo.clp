@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 23/05/19
 (defrule datos
 	=>
 	(assert (vector 5 3 1 3 2))

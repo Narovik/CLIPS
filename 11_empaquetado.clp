@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 25/05/19
 (defrule forrar
 	(declare (salience 100))
 	?f <- (Articulo

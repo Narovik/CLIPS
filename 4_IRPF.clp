@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 22/05/19
 (deftemplate Persona
 	(field Nombre)
 	(field Edad)

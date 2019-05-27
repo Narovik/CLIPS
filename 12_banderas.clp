@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 25/05/19
 (deftemplate Pais
 	(field Nombre)
 	(multifield Bandera)

@@ -1,3 +1,5 @@
+; Autor: Víctor Manuel Rodríguez Navarro
+; Fecha: 25/05/19
 (defrule HayDependencia
 		(Producto (CodigoProducto ?id1)  (PVPProducto ?p1) (CodigoVendedor ?v1))
 		(Producto (CodigoProducto ?id1)  (PVPProducto ?p1) (CodigoVendedor ?v2))
